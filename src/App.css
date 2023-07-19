@@ -1,0 +1,25 @@
+body {
+  background: #0A0C1C;
+}
+
+h1 {
+  font-family: 'Inter', sans-serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 44px;
+}
+
+p {
+  color: #FFF;
+  font-family: 'Inter', sans-serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 166.667% */
+}
+
+.img-color {
+  filter: sepia(81%) saturate(400%) hue-rotate(237deg) brightness(66%) contrast(70%);
+}
